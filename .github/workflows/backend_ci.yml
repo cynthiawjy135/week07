@@ -1,6 +1,6 @@
 # week07/.github/workflows/backend_ci.yml
 
-#This is a new comment to test the workflow trigger by pushing changes 5
+#This is a new comment to test the workflow trigger by pushing changes 6
 
 name: Backend CI - Test, Build and Push Images to ACR
 
